@@ -16,7 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/BeeForTV/releases/download/v1.0.43/BeeForTV-1.0.43-release.apk"><img src="https://img.shields.io/badge/Download_APK-v1.0.43-DB8B16?style=for-the-badge&amp;labelColor=171B20" alt="Download BeeForTV 1.0.43 APK"></a>
+  <a href="https://github.com/BeeForTV/BeeForTV/releases/download/v1.0.43/BeeForTV-1.0.43-release.apk"><img src="https://img.shields.io/badge/Download_APK-v1.0.43-DB8B16?style=for-the-badge&amp;labelColor=171B20" alt="Download BeeForTV 1.0.43 APK"></a>
+</p>
+
+<p align="center">
+  <strong>On your TV?</strong> Open Downloader and enter <strong>5842766</strong>.
 </p>
 
 <p align="center">
@@ -53,12 +57,12 @@ Features and available content depend on your provider, device and stream. Video
 
 **Requires Android 7.0 or later, or a compatible Android TV / Fire TV device.**
 
-1. Open [Releases](https://github.com/YOUR_GITHUB_USERNAME/BeeForTV/releases) and choose a version.
+1. Open [Releases](https://github.com/BeeForTV/BeeForTV/releases) and choose a version.
 2. Under **Assets**, download the file ending in **`.apk`**.
 3. Open the APK on your Android device. If prompted, allow installation from the app you used to open it.
 4. Install BeeForTV, open it and connect your own provider account.
 
-For TV setup, follow our [Android TV & Fire TV installation guide](https://beefortv.com/android-tv-setup.html).
+**Installing on a TV with Downloader?** Enter **`5842766`** in Downloader's URL/search field to access the download. Open the downloaded APK and follow the installation prompts. For more help, follow our [Android TV & Fire TV installation guide](https://beefortv.com/android-tv-setup.html).
 
 **Updating an existing installation?** Install the new official APK over the existing app. Do not uninstall or clear app data first; an in-place update is designed to preserve your saved profiles, settings and viewing progress.
 
